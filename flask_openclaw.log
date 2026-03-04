@@ -1,0 +1,311 @@
+2026-03-04 11:01:19,979 - __main__ - INFO - Starting Flask OpenClaw Integration Platform...
+2026-03-04 11:19:10,104 - __main__ - INFO - Starting Flask OpenClaw Integration Platform...
+2026-03-04 11:20:09,504 - __main__ - INFO - Starting Flask OpenClaw Integration Platform...
+2026-03-04 11:20:09,504 - __main__ - INFO - OpenClaw Base URL: http://127.0.0.1:18789
+2026-03-04 11:20:25,607 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.232:5000
+2026-03-04 11:20:25,607 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2026-03-04 11:20:25,618 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2026-03-04 11:20:25,956 - __main__ - INFO - Starting Flask OpenClaw Integration Platform...
+2026-03-04 11:20:25,956 - __main__ - INFO - OpenClaw Base URL: http://127.0.0.1:18789
+2026-03-04 11:20:25,975 - werkzeug - WARNING -  * Debugger is active!
+2026-03-04 11:20:25,985 - werkzeug - INFO -  * Debugger PIN: 173-985-695
+2026-03-04 11:20:46,687 - werkzeug - INFO -  * Detected change in 'C:\\Users\\16846\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\sympy\\vector\\__init__.py', reloading
+2026-03-04 11:20:47,058 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2026-03-04 11:20:47,390 - __main__ - INFO - Starting Flask OpenClaw Integration Platform...
+2026-03-04 11:20:47,390 - __main__ - INFO - OpenClaw Base URL: http://127.0.0.1:18789
+2026-03-04 11:20:47,408 - werkzeug - WARNING -  * Debugger is active!
+2026-03-04 11:20:47,417 - werkzeug - INFO -  * Debugger PIN: 173-985-695
+2026-03-04 11:34:43,210 - werkzeug - INFO -  * Detected change in 'C:\\Users\\16846\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\paddle\\distributed\\communication\\__init__.py', reloading
+2026-03-04 11:34:43,589 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2026-03-04 11:34:43,915 - __main__ - INFO - Starting Flask OpenClaw Integration Platform...
+2026-03-04 11:34:43,915 - __main__ - INFO - OpenClaw Base URL: http://127.0.0.1:18789
+2026-03-04 11:34:43,932 - werkzeug - WARNING -  * Debugger is active!
+2026-03-04 11:34:43,939 - werkzeug - INFO -  * Debugger PIN: 173-985-695
+2026-03-04 11:34:52,248 - werkzeug - INFO -  * Detected change in 'C:\\Users\\16846\\Desktop\\openclaw-main\\openclaw-main\\flask\\app.py', reloading
+2026-03-04 11:34:52,248 - werkzeug - INFO -  * Detected change in 'C:\\Users\\16846\\Desktop\\openclaw-main\\openclaw-main\\flask\\app.py', reloading
+2026-03-04 11:34:52,248 - werkzeug - INFO -  * Detected change in 'C:\\Users\\16846\\Desktop\\openclaw-main\\openclaw-main\\flask\\app.py', reloading
+2026-03-04 11:34:53,001 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2026-03-04 11:34:53,323 - __main__ - INFO - Starting Flask OpenClaw Integration Platform...
+2026-03-04 11:34:53,323 - __main__ - INFO - OpenClaw Base URL: http://127.0.0.1:18789
+2026-03-04 11:34:53,341 - werkzeug - WARNING -  * Debugger is active!
+2026-03-04 11:34:53,350 - werkzeug - INFO -  * Debugger PIN: 173-985-695
+2026-03-04 11:35:06,328 - __main__ - ERROR - Error: 500 Server Error: Internal Server Error for url: http://127.0.0.1:18789/v1/chat/completions
+2026-03-04 11:35:06,328 - werkzeug - INFO - 127.0.0.1 - - [04/Mar/2026 11:35:06] "[35m[1mPOST /api/message/send HTTP/1.1[0m" 500 -
+2026-03-04 11:35:31,652 - werkzeug - INFO -  * Detected change in 'C:\\Users\\16846\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\faiss\\swigfaiss_avx2.py', reloading
+2026-03-04 11:35:32,454 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2026-03-04 11:35:32,799 - __main__ - INFO - Starting Flask OpenClaw Integration Platform...
+2026-03-04 11:35:32,799 - __main__ - INFO - OpenClaw Base URL: http://127.0.0.1:18789
+2026-03-04 11:35:32,816 - werkzeug - WARNING -  * Debugger is active!
+2026-03-04 11:35:32,826 - werkzeug - INFO -  * Debugger PIN: 173-985-695
+2026-03-04 11:38:29,513 - werkzeug - INFO -  * Detected change in 'C:\\Users\\16846\\Desktop\\openclaw-main\\openclaw-main\\flask\\app.py', reloading
+2026-03-04 11:38:29,513 - werkzeug - INFO -  * Detected change in 'C:\\Users\\16846\\Desktop\\openclaw-main\\openclaw-main\\flask\\app.py.tmp.54420.1772595509510', reloading
+2026-03-04 11:38:30,095 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2026-03-04 11:38:30,419 - __main__ - INFO - Starting Flask OpenClaw Integration Platform...
+2026-03-04 11:38:30,419 - __main__ - INFO - OpenClaw Base URL: http://127.0.0.1:18789
+2026-03-04 11:38:30,433 - werkzeug - WARNING -  * Debugger is active!
+2026-03-04 11:38:30,440 - werkzeug - INFO -  * Debugger PIN: 173-985-695
+2026-03-04 11:38:43,621 - werkzeug - INFO -  * Detected change in 'C:\\Users\\16846\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\dotenv\\cli.py', reloading
+2026-03-04 11:38:43,621 - werkzeug - INFO -  * Detected change in 'C:\\Users\\16846\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\dotenv\\ipython.py', reloading
+2026-03-04 11:38:43,621 - werkzeug - INFO -  * Detected change in 'C:\\Users\\16846\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\dotenv\\main.py', reloading
+2026-03-04 11:38:43,622 - werkzeug - INFO -  * Detected change in 'C:\\Users\\16846\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\dotenv\\parser.py', reloading
+2026-03-04 11:38:43,622 - werkzeug - INFO -  * Detected change in 'C:\\Users\\16846\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\dotenv\\variables.py', reloading
+2026-03-04 11:38:43,622 - werkzeug - INFO -  * Detected change in 'C:\\Users\\16846\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\dotenv\\version.py', reloading
+2026-03-04 11:38:43,623 - werkzeug - INFO -  * Detected change in 'C:\\Users\\16846\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\dotenv\\__init__.py', reloading
+2026-03-04 11:38:43,623 - werkzeug - INFO -  * Detected change in 'C:\\Users\\16846\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\dotenv\\__main__.py', reloading
+2026-03-04 11:38:43,628 - werkzeug - INFO -  * Detected change in 'C:\\Users\\16846\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\dotenv\\cli.py', reloading
+2026-03-04 11:38:43,628 - werkzeug - INFO -  * Detected change in 'C:\\Users\\16846\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\dotenv\\ipython.py', reloading
+2026-03-04 11:38:43,628 - werkzeug - INFO -  * Detected change in 'C:\\Users\\16846\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\dotenv\\main.py', reloading
+2026-03-04 11:38:43,629 - werkzeug - INFO -  * Detected change in 'C:\\Users\\16846\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\dotenv\\__init__.py', reloading
+2026-03-04 11:38:43,629 - werkzeug - INFO -  * Detected change in 'C:\\Users\\16846\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\dotenv\\__main__.py', reloading
+2026-03-04 11:38:43,629 - werkzeug - INFO -  * Detected change in 'C:\\Users\\16846\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\dotenv\\__init__.py', reloading
+2026-03-04 11:38:43,629 - werkzeug - INFO -  * Detected change in 'C:\\Users\\16846\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\dotenv\\__init__.py', reloading
+2026-03-04 11:38:43,630 - werkzeug - INFO -  * Detected change in 'C:\\Users\\16846\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\dotenv\\__main__.py', reloading
+2026-03-04 11:38:43,630 - werkzeug - INFO -  * Detected change in 'C:\\Users\\16846\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\dotenv\\__main__.py', reloading
+2026-03-04 11:38:43,631 - werkzeug - INFO -  * Detected change in 'C:\\Users\\16846\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\dotenv\\cli.py', reloading
+2026-03-04 11:38:43,631 - werkzeug - INFO -  * Detected change in 'C:\\Users\\16846\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\dotenv\\cli.py', reloading
+2026-03-04 11:38:43,631 - werkzeug - INFO -  * Detected change in 'C:\\Users\\16846\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\dotenv\\ipython.py', reloading
+2026-03-04 11:38:43,632 - werkzeug - INFO -  * Detected change in 'C:\\Users\\16846\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\dotenv\\ipython.py', reloading
+2026-03-04 11:38:43,632 - werkzeug - INFO -  * Detected change in 'C:\\Users\\16846\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\dotenv\\main.py', reloading
+2026-03-04 11:38:43,632 - werkzeug - INFO -  * Detected change in 'C:\\Users\\16846\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\dotenv\\main.py', reloading
+2026-03-04 11:38:43,632 - werkzeug - INFO -  * Detected change in 'C:\\Users\\16846\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\dotenv\\parser.py', reloading
+2026-03-04 11:38:43,632 - werkzeug - INFO -  * Detected change in 'C:\\Users\\16846\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\dotenv\\parser.py', reloading
+2026-03-04 11:38:43,632 - werkzeug - INFO -  * Detected change in 'C:\\Users\\16846\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\dotenv\\variables.py', reloading
+2026-03-04 11:38:43,632 - werkzeug - INFO -  * Detected change in 'C:\\Users\\16846\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\dotenv\\variables.py', reloading
+2026-03-04 11:38:43,633 - werkzeug - INFO -  * Detected change in 'C:\\Users\\16846\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\dotenv\\version.py', reloading
+2026-03-04 11:38:43,633 - werkzeug - INFO -  * Detected change in 'C:\\Users\\16846\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\dotenv\\version.py', reloading
+2026-03-04 11:38:43,662 - werkzeug - INFO -  * Detected change in 'C:\\Users\\16846\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\~otenv\\cli.py', reloading
+2026-03-04 11:38:43,662 - werkzeug - INFO -  * Detected change in 'C:\\Users\\16846\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\~otenv\\ipython.py', reloading
+2026-03-04 11:38:43,662 - werkzeug - INFO -  * Detected change in 'C:\\Users\\16846\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\~otenv\\main.py', reloading
+2026-03-04 11:38:43,663 - werkzeug - INFO -  * Detected change in 'C:\\Users\\16846\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\~otenv\\parser.py', reloading
+2026-03-04 11:38:43,663 - werkzeug - INFO -  * Detected change in 'C:\\Users\\16846\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\~otenv\\variables.py', reloading
+2026-03-04 11:38:43,664 - werkzeug - INFO -  * Detected change in 'C:\\Users\\16846\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\~otenv\\version.py', reloading
+2026-03-04 11:38:43,664 - werkzeug - INFO -  * Detected change in 'C:\\Users\\16846\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\~otenv\\__init__.py', reloading
+2026-03-04 11:38:43,664 - werkzeug - INFO -  * Detected change in 'C:\\Users\\16846\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\~otenv\\__main__.py', reloading
+2026-03-04 11:38:44,520 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2026-03-04 11:38:44,843 - __main__ - INFO - Starting Flask OpenClaw Integration Platform...
+2026-03-04 11:38:44,843 - __main__ - INFO - OpenClaw Base URL: http://127.0.0.1:18789
+2026-03-04 11:38:44,857 - werkzeug - WARNING -  * Debugger is active!
+2026-03-04 11:38:44,867 - werkzeug - INFO -  * Debugger PIN: 173-985-695
+2026-03-04 11:41:37,808 - werkzeug - INFO - 127.0.0.1 - - [04/Mar/2026 11:41:37] "[31m[1mPOST /api/message/send HTTP/1.1[0m" 400 -
+2026-03-04 11:43:16,518 - __main__ - INFO - Starting Flask OpenClaw Integration Platform...
+2026-03-04 11:43:16,519 - __main__ - INFO - OpenClaw Base URL: http://127.0.0.1:18789
+2026-03-04 11:43:32,567 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.232:5000
+2026-03-04 11:43:32,567 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2026-03-04 11:43:32,596 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2026-03-04 11:43:32,921 - __main__ - INFO - Starting Flask OpenClaw Integration Platform...
+2026-03-04 11:43:32,921 - __main__ - INFO - OpenClaw Base URL: http://127.0.0.1:18789
+2026-03-04 11:43:32,935 - werkzeug - WARNING -  * Debugger is active!
+2026-03-04 11:43:32,942 - werkzeug - INFO -  * Debugger PIN: 173-985-695
+2026-03-04 11:47:21,318 - __main__ - INFO - Starting Flask OpenClaw Integration Platform...
+2026-03-04 11:47:21,319 - __main__ - INFO - OpenClaw Base URL: http://127.0.0.1:18789
+2026-03-04 11:47:37,387 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.232:5000
+2026-03-04 11:47:37,387 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2026-03-04 11:47:37,394 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2026-03-04 11:47:37,712 - __main__ - INFO - Starting Flask OpenClaw Integration Platform...
+2026-03-04 11:47:37,712 - __main__ - INFO - OpenClaw Base URL: http://127.0.0.1:18789
+2026-03-04 11:47:37,726 - werkzeug - WARNING -  * Debugger is active!
+2026-03-04 11:47:37,734 - werkzeug - INFO -  * Debugger PIN: 173-985-695
+2026-03-04 11:48:03,188 - werkzeug - INFO - 127.0.0.1 - - [04/Mar/2026 11:48:03] "[31m[1mPOST /api/message/send HTTP/1.1[0m" 400 -
+2026-03-04 11:48:10,419 - __main__ - ERROR - Error: 500 Server Error: Internal Server Error for url: http://127.0.0.1:18789/v1/chat/completions
+2026-03-04 11:48:10,420 - werkzeug - INFO - 127.0.0.1 - - [04/Mar/2026 11:48:10] "[35m[1mPOST /api/message/send HTTP/1.1[0m" 500 -
+2026-03-04 11:49:26,465 - werkzeug - INFO -  * Detected change in 'C:\\Users\\16846\\Desktop\\openclaw-main\\openclaw-main\\flask\\config.py', reloading
+2026-03-04 11:49:26,465 - werkzeug - INFO -  * Detected change in 'C:\\Users\\16846\\Desktop\\openclaw-main\\openclaw-main\\flask\\config.py', reloading
+2026-03-04 11:49:26,465 - werkzeug - INFO -  * Detected change in 'C:\\Users\\16846\\Desktop\\openclaw-main\\openclaw-main\\flask\\config.py.tmp.54420.1772596166462', reloading
+2026-03-04 11:49:26,466 - werkzeug - INFO -  * Detected change in 'C:\\Users\\16846\\Desktop\\openclaw-main\\openclaw-main\\flask\\config.py.tmp.54420.1772596166462', reloading
+2026-03-04 11:49:26,722 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2026-03-04 11:49:26,903 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2026-03-04 11:49:27,056 - __main__ - INFO - Starting Flask OpenClaw Integration Platform...
+2026-03-04 11:49:27,056 - __main__ - INFO - OpenClaw Base URL: http://127.0.0.1:18789
+2026-03-04 11:49:27,071 - werkzeug - WARNING -  * Debugger is active!
+2026-03-04 11:49:27,079 - werkzeug - INFO -  * Debugger PIN: 173-985-695
+2026-03-04 11:49:27,231 - __main__ - INFO - Starting Flask OpenClaw Integration Platform...
+2026-03-04 11:49:27,231 - __main__ - INFO - OpenClaw Base URL: http://127.0.0.1:18789
+2026-03-04 11:49:27,245 - werkzeug - WARNING -  * Debugger is active!
+2026-03-04 11:49:27,253 - werkzeug - INFO -  * Debugger PIN: 173-985-695
+2026-03-04 11:49:39,927 - __main__ - INFO - Starting Flask OpenClaw Integration Platform...
+2026-03-04 11:49:39,928 - __main__ - INFO - OpenClaw Base URL: http://127.0.0.1:18789
+2026-03-04 11:49:45,343 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.232:5000
+2026-03-04 11:49:45,343 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2026-03-04 11:49:45,350 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2026-03-04 11:49:45,670 - __main__ - INFO - Starting Flask OpenClaw Integration Platform...
+2026-03-04 11:49:45,670 - __main__ - INFO - OpenClaw Base URL: http://127.0.0.1:18789
+2026-03-04 11:49:45,683 - werkzeug - WARNING -  * Debugger is active!
+2026-03-04 11:49:45,691 - werkzeug - INFO -  * Debugger PIN: 173-985-695
+2026-03-04 11:50:04,457 - __main__ - ERROR - Error: 500 Server Error: Internal Server Error for url: http://127.0.0.1:18789/v1/chat/completions
+2026-03-04 11:50:04,457 - werkzeug - INFO - 127.0.0.1 - - [04/Mar/2026 11:50:04] "[35m[1mPOST /api/message/send HTTP/1.1[0m" 500 -
+2026-03-04 13:02:01,443 - werkzeug - INFO -  * Detected change in 'C:\\Users\\16846\\Desktop\\openclaw-main\\openclaw-main\\flask\\config.py', reloading
+2026-03-04 13:02:02,074 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2026-03-04 13:02:02,417 - __main__ - INFO - Starting Flask OpenClaw Integration Platform...
+2026-03-04 13:02:02,417 - __main__ - INFO - OpenClaw Base URL: http://127.0.0.1:18789
+2026-03-04 13:02:02,434 - werkzeug - WARNING -  * Debugger is active!
+2026-03-04 13:02:02,442 - werkzeug - INFO -  * Debugger PIN: 173-985-695
+2026-03-04 13:03:04,146 - werkzeug - INFO -  * Detected change in 'C:\\Users\\16846\\Desktop\\openclaw-main\\openclaw-main\\flask\\openclaw_client.py', reloading
+2026-03-04 13:03:04,562 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2026-03-04 13:03:04,873 - __main__ - INFO - Starting Flask OpenClaw Integration Platform...
+2026-03-04 13:03:04,873 - __main__ - INFO - OpenClaw Base URL: http://127.0.0.1:18789
+2026-03-04 13:03:04,887 - werkzeug - WARNING -  * Debugger is active!
+2026-03-04 13:03:04,894 - werkzeug - INFO -  * Debugger PIN: 173-985-695
+2026-03-04 13:04:21,520 - __main__ - ERROR - Error: 500 Server Error: Internal Server Error for url: http://127.0.0.1:18789/v1/chat/completions
+2026-03-04 13:04:21,520 - werkzeug - INFO - 127.0.0.1 - - [04/Mar/2026 13:04:21] "[35m[1mPOST /api/message/send HTTP/1.1[0m" 500 -
+2026-03-04 13:16:45,033 - werkzeug - INFO -  * Detected change in 'C:\\Users\\16846\\Desktop\\openclaw-main\\openclaw-main\\flask\\openclaw_client.py', reloading
+2026-03-04 13:16:45,034 - werkzeug - INFO -  * Detected change in 'C:\\Users\\16846\\Desktop\\openclaw-main\\openclaw-main\\flask\\openclaw_client.py.tmp.54420.1772601405021', reloading
+2026-03-04 13:16:45,607 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2026-03-04 13:16:45,930 - __main__ - INFO - Starting Flask OpenClaw Integration Platform...
+2026-03-04 13:16:45,931 - __main__ - INFO - OpenClaw Base URL: http://127.0.0.1:18789
+2026-03-04 13:16:45,944 - werkzeug - WARNING -  * Debugger is active!
+2026-03-04 13:16:45,952 - werkzeug - INFO -  * Debugger PIN: 173-985-695
+2026-03-04 13:16:49,208 - werkzeug - INFO -  * Detected change in 'C:\\Users\\16846\\Desktop\\openclaw-main\\openclaw-main\\flask\\openclaw_client.py', reloading
+2026-03-04 13:16:49,209 - werkzeug - INFO -  * Detected change in 'C:\\Users\\16846\\Desktop\\openclaw-main\\openclaw-main\\flask\\openclaw_client.py.tmp.54420.1772601409195', reloading
+2026-03-04 13:16:50,078 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2026-03-04 13:16:50,413 - __main__ - INFO - Starting Flask OpenClaw Integration Platform...
+2026-03-04 13:16:50,413 - __main__ - INFO - OpenClaw Base URL: http://127.0.0.1:18789
+2026-03-04 13:16:50,426 - werkzeug - WARNING -  * Debugger is active!
+2026-03-04 13:16:50,434 - werkzeug - INFO -  * Debugger PIN: 173-985-695
+2026-03-04 13:22:45,450 - __main__ - INFO - User test sent: Hello...
+2026-03-04 13:22:45,451 - werkzeug - INFO - 127.0.0.1 - - [04/Mar/2026 13:22:45] "POST /api/message/send HTTP/1.1" 200 -
+2026-03-04 13:23:56,695 - __main__ - INFO - User user1 sent: 你好，请问能帮我吗？...
+2026-03-04 13:23:56,696 - werkzeug - INFO - 127.0.0.1 - - [04/Mar/2026 13:23:56] "POST /api/message/send HTTP/1.1" 200 -
+2026-03-04 13:24:07,591 - werkzeug - INFO -  * Detected change in 'C:\\Users\\16846\\Desktop\\openclaw-main\\openclaw-main\\flask\\test_api.py.tmp.54420.1772601847589', reloading
+2026-03-04 13:24:08,337 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2026-03-04 13:24:08,678 - __main__ - INFO - Starting Flask OpenClaw Integration Platform...
+2026-03-04 13:24:08,678 - __main__ - INFO - OpenClaw Base URL: http://127.0.0.1:18789
+2026-03-04 13:24:08,692 - werkzeug - WARNING -  * Debugger is active!
+2026-03-04 13:24:08,701 - werkzeug - INFO -  * Debugger PIN: 173-985-695
+2026-03-04 13:24:23,503 - __main__ - INFO - User test sent: 你好...
+2026-03-04 13:24:23,503 - werkzeug - INFO - 127.0.0.1 - - [04/Mar/2026 13:24:23] "POST /api/message/send HTTP/1.1" 200 -
+2026-03-04 13:24:56,442 - werkzeug - INFO -  * Detected change in 'C:\\Users\\16846\\Desktop\\openclaw-main\\openclaw-main\\flask\\test_api.py', reloading
+2026-03-04 13:24:56,442 - werkzeug - INFO -  * Detected change in 'C:\\Users\\16846\\Desktop\\openclaw-main\\openclaw-main\\flask\\test_api.py.tmp.54420.1772601896439', reloading
+2026-03-04 13:24:56,820 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2026-03-04 13:24:57,136 - __main__ - INFO - Starting Flask OpenClaw Integration Platform...
+2026-03-04 13:24:57,136 - __main__ - INFO - OpenClaw Base URL: http://127.0.0.1:18789
+2026-03-04 13:24:57,149 - werkzeug - WARNING -  * Debugger is active!
+2026-03-04 13:24:57,157 - werkzeug - INFO -  * Debugger PIN: 173-985-695
+2026-03-04 13:25:01,901 - werkzeug - INFO -  * Detected change in 'C:\\Users\\16846\\Desktop\\openclaw-main\\openclaw-main\\flask\\test_api.py', reloading
+2026-03-04 13:25:01,901 - werkzeug - INFO -  * Detected change in 'C:\\Users\\16846\\Desktop\\openclaw-main\\openclaw-main\\flask\\test_api.py.tmp.54420.1772601901898', reloading
+2026-03-04 13:25:02,209 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2026-03-04 13:25:02,527 - __main__ - INFO - Starting Flask OpenClaw Integration Platform...
+2026-03-04 13:25:02,527 - __main__ - INFO - OpenClaw Base URL: http://127.0.0.1:18789
+2026-03-04 13:25:02,540 - werkzeug - WARNING -  * Debugger is active!
+2026-03-04 13:25:02,548 - werkzeug - INFO -  * Debugger PIN: 173-985-695
+2026-03-04 13:26:02,670 - werkzeug - INFO - 127.0.0.1 - - [04/Mar/2026 13:26:02] "GET /api/health HTTP/1.1" 200 -
+2026-03-04 13:26:10,034 - __main__ - INFO - User test_user sent: 你好，我是测试用户...
+2026-03-04 13:26:10,036 - werkzeug - INFO - 127.0.0.1 - - [04/Mar/2026 13:26:10] "POST /api/message/send HTTP/1.1" 200 -
+2026-03-04 13:28:25,222 - werkzeug - INFO -  * Detected change in 'C:\\Users\\16846\\Desktop\\openclaw-main\\openclaw-main\\flask\\test.py', reloading
+2026-03-04 13:28:26,032 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2026-03-04 13:28:26,378 - __main__ - INFO - Starting Flask OpenClaw Integration Platform...
+2026-03-04 13:28:26,378 - __main__ - INFO - OpenClaw Base URL: http://127.0.0.1:18789
+2026-03-04 13:28:26,395 - werkzeug - WARNING -  * Debugger is active!
+2026-03-04 13:28:26,403 - werkzeug - INFO -  * Debugger PIN: 173-985-695
+2026-03-04 13:28:29,350 - werkzeug - INFO -  * Detected change in 'C:\\Users\\16846\\Desktop\\openclaw-main\\openclaw-main\\flask\\test.py', reloading
+2026-03-04 13:28:29,351 - werkzeug - INFO -  * Detected change in 'C:\\Users\\16846\\Desktop\\openclaw-main\\openclaw-main\\flask\\test.py', reloading
+2026-03-04 13:28:29,507 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2026-03-04 13:28:29,834 - __main__ - INFO - Starting Flask OpenClaw Integration Platform...
+2026-03-04 13:28:29,834 - __main__ - INFO - OpenClaw Base URL: http://127.0.0.1:18789
+2026-03-04 13:28:29,848 - werkzeug - WARNING -  * Debugger is active!
+2026-03-04 13:28:29,856 - werkzeug - INFO -  * Debugger PIN: 173-985-695
+2026-03-04 13:28:36,770 - __main__ - INFO - User test sent: 你好...
+2026-03-04 13:28:36,772 - werkzeug - INFO - 127.0.0.1 - - [04/Mar/2026 13:28:36] "POST /api/message/send HTTP/1.1" 200 -
+2026-03-04 13:28:57,356 - werkzeug - INFO -  * Detected change in 'C:\\Users\\16846\\Desktop\\openclaw-main\\openclaw-main\\flask\\test.py', reloading
+2026-03-04 13:28:57,357 - werkzeug - INFO -  * Detected change in 'C:\\Users\\16846\\Desktop\\openclaw-main\\openclaw-main\\flask\\test.py', reloading
+2026-03-04 13:28:58,158 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2026-03-04 13:28:58,533 - __main__ - INFO - Starting Flask OpenClaw Integration Platform...
+2026-03-04 13:28:58,533 - __main__ - INFO - OpenClaw Base URL: http://127.0.0.1:18789
+2026-03-04 13:28:58,548 - werkzeug - WARNING -  * Debugger is active!
+2026-03-04 13:28:58,556 - werkzeug - INFO -  * Debugger PIN: 173-985-695
+2026-03-04 13:29:13,244 - werkzeug - INFO -  * Detected change in 'C:\\Users\\16846\\Desktop\\openclaw-main\\openclaw-main\\flask\\test.py', reloading
+2026-03-04 13:29:13,245 - werkzeug - INFO -  * Detected change in 'C:\\Users\\16846\\Desktop\\openclaw-main\\openclaw-main\\flask\\test.py', reloading
+2026-03-04 13:29:13,701 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2026-03-04 13:29:14,032 - __main__ - INFO - Starting Flask OpenClaw Integration Platform...
+2026-03-04 13:29:14,032 - __main__ - INFO - OpenClaw Base URL: http://127.0.0.1:18789
+2026-03-04 13:29:14,046 - werkzeug - WARNING -  * Debugger is active!
+2026-03-04 13:29:14,055 - werkzeug - INFO -  * Debugger PIN: 173-985-695
+2026-03-04 13:30:30,011 - werkzeug - INFO -  * Detected change in 'C:\\Users\\16846\\Desktop\\openclaw-main\\openclaw-main\\flask\\test_multi_turn.py.tmp.54420.1772602230006', reloading
+2026-03-04 13:30:30,230 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2026-03-04 13:30:30,544 - __main__ - INFO - Starting Flask OpenClaw Integration Platform...
+2026-03-04 13:30:30,544 - __main__ - INFO - OpenClaw Base URL: http://127.0.0.1:18789
+2026-03-04 13:30:30,557 - werkzeug - WARNING -  * Debugger is active!
+2026-03-04 13:30:30,565 - werkzeug - INFO -  * Debugger PIN: 173-985-695
+2026-03-04 13:32:00,708 - werkzeug - INFO -  * Detected change in 'C:\\Users\\16846\\Desktop\\openclaw-main\\openclaw-main\\flask\\test.py', reloading
+2026-03-04 13:32:00,709 - werkzeug - INFO -  * Detected change in 'C:\\Users\\16846\\Desktop\\openclaw-main\\openclaw-main\\flask\\test.py', reloading
+2026-03-04 13:32:00,808 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2026-03-04 13:32:01,133 - __main__ - INFO - Starting Flask OpenClaw Integration Platform...
+2026-03-04 13:32:01,133 - __main__ - INFO - OpenClaw Base URL: http://127.0.0.1:18789
+2026-03-04 13:32:01,147 - werkzeug - WARNING -  * Debugger is active!
+2026-03-04 13:32:01,154 - werkzeug - INFO -  * Debugger PIN: 173-985-695
+2026-03-04 13:32:08,669 - __main__ - INFO - User user123 sent: 你好，我叫小明...
+2026-03-04 13:32:08,670 - werkzeug - INFO - 127.0.0.1 - - [04/Mar/2026 13:32:08] "POST /api/message/send HTTP/1.1" 200 -
+2026-03-04 13:32:14,509 - __main__ - INFO - User user123 sent: 我叫什么名字？...
+2026-03-04 13:32:14,510 - werkzeug - INFO - 127.0.0.1 - - [04/Mar/2026 13:32:14] "POST /api/message/send HTTP/1.1" 200 -
+2026-03-04 13:32:22,842 - __main__ - INFO - User user123 sent: 你能帮我做什么？...
+2026-03-04 13:32:22,843 - werkzeug - INFO - 127.0.0.1 - - [04/Mar/2026 13:32:22] "POST /api/message/send HTTP/1.1" 200 -
+2026-03-04 13:34:32,264 - __main__ - INFO - User multi_turn_test sent: 你好，我想学习编程...
+2026-03-04 13:34:32,264 - werkzeug - INFO - 127.0.0.1 - - [04/Mar/2026 13:34:32] "POST /api/message/send HTTP/1.1" 200 -
+2026-03-04 13:34:41,515 - __main__ - INFO - User multi_turn_test sent: 我对 Python 感兴趣...
+2026-03-04 13:34:41,516 - werkzeug - INFO - 127.0.0.1 - - [04/Mar/2026 13:34:41] "POST /api/message/send HTTP/1.1" 200 -
+2026-03-04 13:34:57,202 - __main__ - INFO - User multi_turn_test sent: Python 可以用来做什么？...
+2026-03-04 13:34:57,202 - werkzeug - INFO - 127.0.0.1 - - [04/Mar/2026 13:34:57] "POST /api/message/send HTTP/1.1" 200 -
+2026-03-04 13:35:22,974 - __main__ - INFO - User multi_turn_test sent: 我想做数据分析，需要学什么？...
+2026-03-04 13:35:22,975 - werkzeug - INFO - 127.0.0.1 - - [04/Mar/2026 13:35:22] "POST /api/message/send HTTP/1.1" 200 -
+2026-03-04 13:35:52,270 - __main__ - INFO - User multi_turn_test sent: 推荐一些学习资源吧...
+2026-03-04 13:35:52,270 - werkzeug - INFO - 127.0.0.1 - - [04/Mar/2026 13:35:52] "POST /api/message/send HTTP/1.1" 200 -
+2026-03-04 13:36:02,407 - __main__ - INFO - User multi_turn_test sent: 谢谢！...
+2026-03-04 13:36:02,407 - werkzeug - INFO - 127.0.0.1 - - [04/Mar/2026 13:36:02] "POST /api/message/send HTTP/1.1" 200 -
+2026-03-04 13:36:02,409 - werkzeug - INFO - 127.0.0.1 - - [04/Mar/2026 13:36:02] "GET /api/session/c5547e24-f473-4679-b35c-7e15f516b525/history HTTP/1.1" 200 -
+2026-03-04 13:39:37,705 - werkzeug - INFO -  * Detected change in 'C:\\Users\\16846\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\faiss\\class_wrappers.py', reloading
+2026-03-04 13:39:38,172 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2026-03-04 13:39:38,502 - __main__ - INFO - Starting Flask OpenClaw Integration Platform...
+2026-03-04 13:39:38,502 - __main__ - INFO - OpenClaw Base URL: http://127.0.0.1:18789
+2026-03-04 13:39:38,516 - werkzeug - WARNING -  * Debugger is active!
+2026-03-04 13:39:38,525 - werkzeug - INFO -  * Debugger PIN: 173-985-695
+2026-03-04 13:41:57,239 - werkzeug - INFO - 127.0.0.1 - - [04/Mar/2026 13:41:57] "[33mGET / HTTP/1.1[0m" 404 -
+2026-03-04 13:41:57,326 - werkzeug - INFO - 127.0.0.1 - - [04/Mar/2026 13:41:57] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-03-04 13:44:17,183 - werkzeug - INFO -  * Detected change in 'C:\\Users\\16846\\Desktop\\openclaw-main\\openclaw-main\\flask\\test_multi_turn.py', reloading
+2026-03-04 13:44:17,184 - werkzeug - INFO -  * Detected change in 'C:\\Users\\16846\\Desktop\\openclaw-main\\openclaw-main\\flask\\test_multi_turn.py', reloading
+2026-03-04 13:44:17,315 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2026-03-04 13:44:17,661 - __main__ - INFO - Starting Flask OpenClaw Integration Platform...
+2026-03-04 13:44:17,662 - __main__ - INFO - OpenClaw Base URL: http://127.0.0.1:18789
+2026-03-04 13:44:17,675 - werkzeug - WARNING -  * Debugger is active!
+2026-03-04 13:44:17,684 - werkzeug - INFO -  * Debugger PIN: 173-985-695
+2026-03-04 13:45:17,727 - __main__ - ERROR - Error: HTTPConnectionPool(host='127.0.0.1', port=18789): Read timed out. (read timeout=60)
+2026-03-04 13:45:17,727 - werkzeug - INFO - 127.0.0.1 - - [04/Mar/2026 13:45:17] "[35m[1mPOST /api/message/send HTTP/1.1[0m" 500 -
+2026-03-04 13:45:30,566 - __main__ - INFO - Starting Flask OpenClaw Integration Platform...
+2026-03-04 13:45:30,566 - __main__ - INFO - OpenClaw Base URL: http://127.0.0.1:18789
+2026-03-04 13:45:35,589 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.232:5000
+2026-03-04 13:45:35,589 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2026-03-04 13:45:35,597 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2026-03-04 13:45:35,918 - __main__ - INFO - Starting Flask OpenClaw Integration Platform...
+2026-03-04 13:45:35,918 - __main__ - INFO - OpenClaw Base URL: http://127.0.0.1:18789
+2026-03-04 13:45:35,931 - werkzeug - WARNING -  * Debugger is active!
+2026-03-04 13:45:35,940 - werkzeug - INFO -  * Debugger PIN: 173-985-695
+2026-03-04 13:46:11,720 - werkzeug - INFO -  * Detected change in 'C:\\Users\\16846\\Desktop\\openclaw-main\\openclaw-main\\flask\\test_multi_turn.py', reloading
+2026-03-04 13:46:11,720 - werkzeug - INFO -  * Detected change in 'C:\\Users\\16846\\Desktop\\openclaw-main\\openclaw-main\\flask\\test_multi_turn.py', reloading
+2026-03-04 13:46:11,720 - werkzeug - INFO -  * Detected change in 'C:\\Users\\16846\\Desktop\\openclaw-main\\openclaw-main\\flask\\test_multi_turn.py', reloading
+2026-03-04 13:46:11,721 - werkzeug - INFO -  * Detected change in 'C:\\Users\\16846\\Desktop\\openclaw-main\\openclaw-main\\flask\\test_multi_turn.py', reloading
+2026-03-04 13:46:11,723 - werkzeug - INFO -  * Detected change in 'C:\\Users\\16846\\Desktop\\openclaw-main\\openclaw-main\\flask\\test_multi_turn.py', reloading
+2026-03-04 13:46:12,029 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2026-03-04 13:46:12,103 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2026-03-04 13:46:12,368 - __main__ - INFO - Starting Flask OpenClaw Integration Platform...
+2026-03-04 13:46:12,369 - __main__ - INFO - OpenClaw Base URL: http://127.0.0.1:18789
+2026-03-04 13:46:12,384 - werkzeug - WARNING -  * Debugger is active!
+2026-03-04 13:46:12,393 - werkzeug - INFO -  * Debugger PIN: 173-985-695
+2026-03-04 13:46:12,447 - __main__ - INFO - Starting Flask OpenClaw Integration Platform...
+2026-03-04 13:46:12,448 - __main__ - INFO - OpenClaw Base URL: http://127.0.0.1:18789
+2026-03-04 13:46:12,463 - werkzeug - WARNING -  * Debugger is active!
+2026-03-04 13:46:12,472 - werkzeug - INFO -  * Debugger PIN: 173-985-695
+2026-03-04 13:49:36,181 - __main__ - INFO - User test sent: 你好...
+2026-03-04 13:49:36,184 - werkzeug - INFO - 127.0.0.1 - - [04/Mar/2026 13:49:36] "POST /api/message/send HTTP/1.1" 200 -
